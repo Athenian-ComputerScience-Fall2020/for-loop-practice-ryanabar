@@ -2,5 +2,5 @@
 # Edpuzzle Video: "For Loops"
 
 
-for x in range(10,21):
+for x in range(20, 9, -1):
     print(x)
